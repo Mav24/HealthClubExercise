@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Glasgow Project", "Glasgow Project\Glasgow Project.vbproj", "{99F24645-0EED-4051-9E72-9C427FB88D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F24645-0EED-4051-9E72-9C427FB88D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F24645-0EED-4051-9E72-9C427FB88D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F24645-0EED-4051-9E72-9C427FB88D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F24645-0EED-4051-9E72-9C427FB88D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3542B78-2AED-4181-8C31-A707BF8E0592}
+	EndGlobalSection
+EndGlobal
